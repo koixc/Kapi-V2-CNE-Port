@@ -1,1 +1,10 @@
-Sill A W.I.P But It Still Works
+# Kapi-V2-CNE-Port
+Sitll In W.I.P But Hey It Still Works
+
+## List Songs
+- [x] meowgen
+- [ ] scratch-post
+- [ ] hellfart
+- [ ] sanctuary
+## Ported by
+- Crisp
